@@ -4,6 +4,6 @@ Este é um simples projeto de um contador para relembrar as funcionalidades do J
 
 Abaixo, está um screenshot para exemplificar:
 
-![Screenshot Contador](./assets/img/print.png)
+![Screenshot Contador](./assets/img/print.png "Tela do contador")
 
 É isso! 😃
